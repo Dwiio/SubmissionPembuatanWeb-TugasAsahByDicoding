@@ -1,6 +1,6 @@
 # 🌐 Submission Membuat Website - Asah by Dicoding
 
-Website yang dibuat sebagai **submission tugas pada program Asah by Dicoding 2026**.
+Website yang dibuat sebagai **submission tugas pada program Asah by Dicoding**.
 
 Project ini dibuat untuk menerapkan dasar-dasar **web development** menggunakan HTML, CSS, dan JavaScript, dengan penerapan semantic HTML, dan responsive design.
 
