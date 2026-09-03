@@ -1,4 +1,4 @@
-# 🌐 Submission Membuat Website - Asah by Dicoding 2026
+# 🌐 Submission Membuat Website - Asah by Dicoding
 
 Website yang dibuat sebagai **submission tugas pada program Asah by Dicoding 2026**.
 
