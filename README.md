@@ -37,7 +37,8 @@ Saya sudah menyelesaikan kelas Belajar Dasar Pemrograman Web
 
 ## 🎓 Asah by Dicoding 2026
 
-Project ini merupakan bagian dari program **Asah by Dicoding 2026** dan telah berhasil diselesaikan.
+Project ini merupakan bagian dari program **Asah by Dicoding** dan telah berhasil diselesaikan.
+https://submissionwebdicoding.netlify.app
 
 **Certificate:**
 🔗 https://www.dicoding.com/certificates/98XW8RYE0PM3
